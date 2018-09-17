@@ -1,0 +1,45 @@
+_repo: Candide-Eli-Avosydamisen-ja-vilpittoman-nuoren-miehen-ihmeelliset-seikkailut_52336
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Streng, Hilja Onerva
+    - Lehtinen, Onerva
+    - Lehtinen, Hilja Onerva
+    - Madetoja, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52336'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Optimism -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Finnish'
+- GITenberg
+title: Candide; Eli, Avosydämisen ja vilpittömän nuoren miehen ihmeelliset seikkailut
+url: http://www.gutenberg.org/ebooks/52336
